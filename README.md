@@ -8,7 +8,7 @@ This repository contains the source code for my **personal portfolio website**, 
 
 ## 🚀 Live Demo
 
-👉 [View Live Website]( https://hossamkoky599.github.io/My-Portfolio/) *(replace with your link)*
+👉 https://hossamkoky599.github.io/My-Portfolio/
 
 ---
 
