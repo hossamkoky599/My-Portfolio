@@ -8,7 +8,7 @@ This repository contains the source code for my **personal portfolio website**, 
 
 ## 🚀 Live Demo
 
-👉 [View Live Website](https://yourdomain.com) *(replace with your link)*
+👉 [View Live Website]( https://hossamkoky599.github.io/My-Portfolio/) *(replace with your link)*
 
 ---
 
@@ -18,9 +18,4 @@ This repository contains the source code for my **personal portfolio website**, 
 - **Backend:** Python (Flask / Django)
 - **Other Tools:** Git, GitHub, VS Code, Vercel / Render / Netlify (deployment)
 
----
 
-## 📸 Screenshots
-
-![Homepage Screenshot](./screenshots/home.png)  
-*(Optional — add images from your site here)*
